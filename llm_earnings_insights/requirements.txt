@@ -1,0 +1,9 @@
+streamlit
+pydantic
+PyMuPDF
+faiss-cpu
+sentence-transformers
+openai
+ollama
+anthropic
+requests
